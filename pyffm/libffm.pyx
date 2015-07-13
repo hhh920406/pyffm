@@ -23,5 +23,3 @@ def train_wrap(np.ndarray[np.float64_t, ndim=2, mode='c'] X,
     m = model->m
     k = model->k
     norm = model->normalization
-
-    
